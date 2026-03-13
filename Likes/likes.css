@@ -1,0 +1,12 @@
+
+.add, .sub, .answer{
+    font-size: 30px;
+    padding: 20px;
+}
+label{
+    color:blue;
+    padding:20px;
+    font-size:50px;
+    margin-top:10px;
+
+}
